@@ -45,10 +45,6 @@ except URLError as e:
 
 
 
-# Prints on screen
-streamlit.dataframe(fruityvice_normalized)
-
-
 
 
 
